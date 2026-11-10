@@ -41,20 +41,21 @@ Built as an academic technology project, CloseWise AI demonstrates how automatio
 
 The command center provides a consolidated view of financial activity, month-end closing progress, risk exposure, and bank reconciliation performance.
 
-![CloseWise AI Executive Overview](assets/closewise-overview.jpg)
+
+![Executive Overview](assets/closewise-overview.jpg.jpeg)
+
 
 ### 2. Expense Audit & Investigation Room
 
 The forensic investigation interface displays transaction risk scores, severity classifications, and explainability factors contributing to flagged expenses.
 
-![CloseWise AI Expense Audit](assets/expense-audit-investigation.jpg)
+![Expense Audit](assets/expense-audit-investigation.jpg.jpeg)
 
 ### 3. Data Explorer & CSV/Excel Ingestion
 
 The Data Explorer allows users to upload transaction files, validate records, review import results, and add valid records to the active expense dataset.
 
-![CloseWise AI Data Explorer](assets/data-explorer-upload.jpg)
-
+![Data Explorer](assets/data-explorer-upload.jpg.jpeg)
 ## Dashboard Modules
 
 | Module | Description |
