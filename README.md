@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤝 CloseWise AI
+# 🧾 CloseWise AI
 
 ### Intelligent Sales. Smarter Decisions. Better Closures.
 
