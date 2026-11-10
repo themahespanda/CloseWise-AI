@@ -11,15 +11,6 @@ AI-Powered Sales & Deal Intelligence Platform
 </div>
 
 
- <div align="center">
-
-# CloseWise AI
-
-### Month-End Financial Close & Expense Audit Agent
-
-**A financial operations dashboard for intelligent expense review, month-end close monitoring, bank reconciliation, and financial control visibility.**
-
-</div>
 
 ---
 
@@ -194,19 +185,7 @@ http://localhost:8000/closewise_dashboard.html
 
 The supplied implementation is a client-side HTML application and does not require a separate Python backend.
 
-## Project Structure
 
-```text
-CloseWise-AI/
-│
-├── README.md
-├── closewise_dashboard.html
-│
-└── assets/
-    ├── closewise-overview.jpg
-    ├── expense-audit-investigation.jpg
-    └── data-explorer-upload.jpg
-```
 
 ## Implementation Notes
 
